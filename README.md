@@ -1,6 +1,9 @@
 # Secret Number Game
 Secret Number Game is a local two-player game you can play on your computer. 
 Players take turns guessing the randomly chosen number within the upper and lower bounds specified by the players.
+
+[Gameplay Demo](https://www.loom.com/share/3c294e8116334fe59c3ba7daf2f071be)
+
 This game was one of the first projects I completed in Java when I started learning to code in 2019. 
 
 ## Installation
@@ -9,7 +12,7 @@ This game was one of the first projects I completed in Java when I started learn
 3. Compile the java program by running `javac SecretNumberGame.java`.
 4. After compilation, you can now run the program by typing the following command and hitting enter: `java SecretNumberGame`.
 
-## Game Play
+## Gameplay
 1. Players will be prompted to enter their names.
 2. Players will determine the upper and lower bounds for the secret number.
 3. The computer will randomly select the secret number based on the specified upper and lower bounds.
